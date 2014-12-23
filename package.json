@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Open an atom-shell browser window",
   "bin": "cmd.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seanewest/atom-browser.git"
+  },
+  "homepage": "https://github.com/seanewest/atom-browser",
   "keywords": [
     "atom",
     "atom-shell",
