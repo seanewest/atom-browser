@@ -17,5 +17,8 @@
     "url"
   ],
   "author": "Sean West",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "atom-shell": "^1.2.1"
+  }
 }
